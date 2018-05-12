@@ -1,0 +1,30 @@
+_repo: Incertidumbre_26845
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lecomte du Noüy, Hermine Oudinot
+    aliases:
+    - Lecomte du Nouy, Hermine Oudinot
+    - Noüy, Hermine Oudinot Lecomte du
+    - Noüy, Hermine Oudinot Lecomte Du
+    birthdate: 1854
+    deathdate: 1915
+    gutenberg_agent_id: '32271'
+    url: http://www.gutenberg.org/2009/agents/32271
+description: ''
+gutenberg_issued: '2008-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26845'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction -- Translations into Spanish'
+title: Incertidumbre
+url: http://www.gutenberg.org/ebooks/26845
